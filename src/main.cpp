@@ -5,6 +5,8 @@
 #include <iostream>
 using namespace std;
 
+# Eirini Mitsopoulou
+
 void createfile(char *filename,int nblocks) {
         FILE *out;
         block_t block;
