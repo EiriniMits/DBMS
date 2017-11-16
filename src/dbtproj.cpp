@@ -8,6 +8,8 @@
 #include <unistd.h>
 using namespace std;
 
+# Eirini Mitsopoulou
+
 struct linkedList {
     record_t current;
     linkedList *next;
