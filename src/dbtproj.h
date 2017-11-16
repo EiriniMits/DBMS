@@ -5,7 +5,8 @@
  *  Header file dbtproj.h to be used by your code.
  *  It is not permitted to change this file. You can make changes to perform tests,
  *  but please rely on the values and typedefs shown below.
- *
+ *  
+ *  author Eirini Mitsopoulou
  *  ==========================================================================================
  *
  */
