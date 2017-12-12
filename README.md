@@ -1,4 +1,6 @@
 # DBMS
+This project was created for academic purposes on the subject of 'Database Technology' at the Aristotle University of Thessaloniki.
+
 This project contains basic functions of a DBMS (External Merge sort, Duplicate Elimination, Merge Join, Hash Join) that are designed to work in real-life and extreme circumstances (Huge input data, extremely low available memory).
 
 ## Examples
